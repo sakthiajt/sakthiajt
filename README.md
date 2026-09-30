@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, This is Sakthivel Aruljothi 👋
 
-<!--
-**sakthiajt/sakthiajt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | API & Platform Engineering | DevOps | Product Builder**
 
-Here are some ideas to get you started:
+I build **scalable APIs, cloud-native platforms, developer tools, and products** — from architecture to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ What I Work With
+
+`TypeScript` `Node.js` `React` `React Native` `Expo`
+`PostgreSQL` `MongoDB` `Drizzle` `Docker` `Kubernetes` `K3s`
+`Jenkins` `ArgoCD` `Harbor` `Traefik` `Proxmox` `Linux`
+
+### 🧠 I Like Building
+
+**APIs → Platforms → Automation → Infrastructure → Products**
+
+> Build it. Automate it. Ship it. Improve it.
+
+### 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/sakthiajt/)
